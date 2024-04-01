@@ -1,0 +1,13 @@
+{
+  "name": "WifiManager Blynk",
+  "keywords": "wifi, wi-fi",
+  "description": "ESP8266 WiFi Connection manager with fallback web configuration portal with Blynk token",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/tzapu/WiFiManager.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.1"
+}
